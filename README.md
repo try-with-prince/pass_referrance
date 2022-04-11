@@ -58,3 +58,14 @@ System.out.println(ref.a);// 6th value that change in fun
 // }
 
 }
+
+
+
+
+
+50
+60
+60
+2000
+2000
+50
